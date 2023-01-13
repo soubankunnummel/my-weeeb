@@ -1,0 +1,15 @@
+.card-area{
+    width: 300px;
+    height: 200px;
+    background-color: red;
+}
+.carousal-inner{
+    background: black !important;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+.carousalExample{
+    
+
+}

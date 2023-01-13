@@ -1,0 +1,90 @@
+.service-text{
+    font-family: 'Aboreto', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    padding-top: 40px;
+}
+.service{
+    background-color: rgb(17, 17, 17);
+}
+.whatido-text{
+    font-family: 'Aboreto', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 50px;
+}
+.skill{
+    height: 300px;
+    width: 200px;
+    background-color: red;
+    margin-left: 80px;
+}
+.Hcard{
+    width: 309px;
+    height: 280px;
+    background: #222428;
+    border-radius: 18px;
+    font-family: 'Roboto Mono', monospace;
+    padding: 2px 15px 0 15px;
+    cursor: pointer;
+    transition: all 29.9s ease;
+}
+.Hcards-area{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 45px 0 0 0;
+    width: 84%;
+}
+.ms-auto{
+    margin: auto!important;
+}    
+.Hcard p {
+    font-size: 19px;
+    color: rgb(127 124 124);
+}
+.p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.Hcard h5 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 500;
+}
+.Hcard i{
+    font-size: 40px;
+    padding: 8px 0 15px 15px;
+    color: gray;
+}
+.a, .fas {
+    font-family: "Font Awesome 5 Pro";
+    font-weight: 900;
+}
+.Hcard span {
+    width: 240px;
+    height: auto;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+* {
+    scroll-behavior: smooth;
+}
+.Hcard p {
+    font-size: 19px;
+    color: #8b8c8e;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+* {
+    scroll-behavior: smooth;
+}

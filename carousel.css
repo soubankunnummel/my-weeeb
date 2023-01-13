@@ -1,0 +1,25 @@
+
+#carouselExampleInterval{
+    padding: 50px 0 0 0;
+}
+
+
+#carouselExampleInterval {
+    display: flex;
+}
+#carouselExampleInterval{
+    display: none;
+}
+.carousel {
+    position: relative;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+* {
+    scroll-behavior: smooth;
+}
+user agent stylesheet
+div {
+    display: block;
+}
